@@ -13,4 +13,6 @@ The project strengthened our skills in Python, particularly in applying OOP conc
 
 We are proud of what we achieved and look forward to exploring future improvements. Thank you for checking out our project!
 
-Project developed by Khaled Ramadan & Esraa Ahmed
+Project developed by 
+Khaled Ramadan >> https://www.linkedin.com/in/khaled-ramadan-143610232/
+Esraa Ahmed    >> https://www.linkedin.com/in/esraa-ahmed-hmza/
